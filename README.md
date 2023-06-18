@@ -3,7 +3,7 @@ projeto hackathon citibank
 
 
 
-![](http://i.imgur.com/y8g506n.png?1)
+![](https://github.com/giocarvalho07/citibank-hackathon/issues/1)
 
 # joe
 
