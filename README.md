@@ -1,6 +1,7 @@
 # citibank-hackathon
 projeto hackathon citibank 
 
+<img width="742" alt="img1" src="https://github.com/giocarvalho07/citibank-hackathon/assets/52415453/814b6c85-e8e4-4886-bdbf-201ce05be6dc">
 
 
 ![](https://github.com/giocarvalho07/citibank-hackathon/issues/1)
