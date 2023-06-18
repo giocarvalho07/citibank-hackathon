@@ -3,6 +3,9 @@ projeto hackathon citibank
 
 <img width="742" alt="img1" src="https://github.com/giocarvalho07/citibank-hackathon/assets/52415453/814b6c85-e8e4-4886-bdbf-201ce05be6dc">
 
+<br>
+<br>
+
 <p>
     Arquitetura do nosso projeto é baseada em upload, tratamento e geração de arquivos, onde temos como "base" o padrão CNAB 750
 </p>
