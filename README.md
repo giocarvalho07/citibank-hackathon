@@ -55,14 +55,12 @@ Para verificar se a instalação foi realizada com sucesso podemos abrir algum t
 $ go version
 ```
 
-## Features
+## Rodando a aplicação local
 
-- Written in uncomplicated Go (Golang)
-- No installation necessary - just use the [binary](https://github.com/karan/joe#installation).
-- Stupidly [easy to use](https://github.com/karan/joe#usage)
-- Supports all Github-supported [`.gitignore` files](https://github.com/karan/joe#list-all-available-files)
-- Works on Mac, Linux and (maybe) Windows
-- Supports other version control systems (`.hgignore`)
+- Para executar o projeto Go (Golang) direto no terminal
+```bash
+$ go run main.go
+```
 
 ## Installation
 
