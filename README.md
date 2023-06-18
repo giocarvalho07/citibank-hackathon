@@ -13,7 +13,6 @@ projeto hackathon citibank
 
 ![](https://github.com/giocarvalho07/citibank-hackathon/issues/1)
 
-# joe
 
 Acesse a página de downloads da Golang e baixe o instalador da Golang para Windows. No momento em que realizo a escrita desse artigo, a versão atual da linguagem 
 é a 1.19. https://go.dev/dl/
