@@ -73,6 +73,9 @@ Após teste local, você pode testar esta Url no browser ou Postman
 $ http://localhost:8080/cnab
 ```
 
+<img width="448" alt="postmanXC" src="https://github.com/giocarvalho07/citibank-hackathon/assets/52415453/1f6e0b6e-d6bb-451e-b030-7bc71db08947">
+
+
 ## Usage
 
 ### Commands:
@@ -86,7 +89,82 @@ g | generate    generate gitignore files
 ### Basic usage
 
 ```bash
-$ joe g java    # outputs .gitignore file for java to stdout
+$ [
+    {
+        "TipoOperacaoRemessa": "001",
+        "LiteralRemessa": "8566994",
+        "CodigoServico": "02",
+        "LiteralServico": "L",
+        "ISPBParticipante": "123",
+        "TipoPessoaRecebedor": "896",
+        "CPForCNPJ": "0987656643",
+        "Agencia": "0258",
+        "Conta": "9633654",
+        "TipoConta": "green",
+        "ChavePix": "2966657",
+        "DataGeracao": "09/05/2023",
+        "CodigoConvenio": "741",
+        "ExclusivoPSPRecebedor": "00007",
+        "NomeRecebedor": "Carros SA",
+        "Bancos": "Caixa",
+        "NumeroSequenciaRemessa": "0025014",
+        "VersaoArquivo": "089",
+        "TipoRegistro": "001",
+        "Identificador": "green",
+        "Tipo": "FG",
+        "TipoCobranca": "000585",
+        "CodOcorrencia": "001",
+        "TimesTampExpiracao": "98745550",
+        "DataVencimento": "02/09/2023",
+        "ValidadeAposVencimento": "985245",
+        "ValorOriginal": "001",
+        "TipoPessoaDevedor": "PL",
+        "CPForCNPJDevedor": "824942636426",
+        "NomeDevedor": "Banespa JH Bank",
+        "CampoTextoAoPagador": "001",
+        "ValorTotal": "895",
+        "QTdRegistros": "750",
+        "NumeroSequencial": "001",
+        "StatusProjeto": "Processado"
+    },
+    {
+        "TipoOperacaoRemessa": "002",
+        "LiteralRemessa": "8566994",
+        "CodigoServico": "02",
+        "LiteralServico": "L",
+        "ISPBParticipante": "123",
+        "TipoPessoaRecebedor": "896",
+        "CPForCNPJ": "8799222159658",
+        "Agencia": "0258",
+        "Conta": "9633654",
+        "TipoConta": "red",
+        "ChavePix": "2966657",
+        "DataGeracao": "09/05/2023",
+        "CodigoConvenio": "741",
+        "ExclusivoPSPRecebedor": "00007",
+        "NomeRecebedor": "carla",
+        "Bancos": "BB",
+        "NumeroSequenciaRemessa": "0025014",
+        "VersaoArquivo": "089",
+        "TipoRegistro": "002",
+        "Identificador": "red",
+        "Tipo": "FG",
+        "TipoCobranca": "000585",
+        "CodOcorrencia": "001",
+        "TimesTampExpiracao": "98745550",
+        "DataVencimento": "02/09/2023",
+        "ValidadeAposVencimento": "985245",
+        "ValorOriginal": "001",
+        "TipoPessoaDevedor": "PL",
+        "CPForCNPJDevedor": "824942636426",
+        "NomeDevedor": "Mario",
+        "CampoTextoAoPagador": "001",
+        "ValorTotal": "895",
+        "QTdRegistros": "750",
+        "NumeroSequencial": "001",
+        "StatusProjeto": "Processado"
+    }
+    ]
 ```
 
 To update your `.gitignore` files at any time, simply run:
