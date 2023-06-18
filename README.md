@@ -162,16 +162,13 @@ $ [
 
 #### Escalabilidade do projeto
 
-Realizamso testes para o projeto suportar até 1000 requisições por minuto, prevendo tolerância a falhas
+Realizamso testes para o projeto suportar até 2000 requisições por minuto, prevendo tolerância a falhas e atingindo o objeto de 100mil requisições por hora de contingênciamento
+
+<img width="335" alt="request" src="https://github.com/giocarvalho07/citibank-hackathon/assets/52415453/26cc4f1a-7252-43ba-9d71-61ad4cc15a6d">
 
 
 ```bash
-USAGE:
-    $ $tool [-h|--help] COMMAND
-
-  EXAMPLES:
-    $ $tool deps      Install dependencies for joe
-    $ $tool build     Build a binary
-    $ $tool run       Build and run the binary
+EXAMPLE:
+    $ [GIN] 2023/06/18 - 12:15:05 | 200 |        86.5µs |       127.0.0.1 | GET      "/cnab"
 ```
 
