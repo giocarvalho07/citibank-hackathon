@@ -64,15 +64,13 @@ $ go run main.go
 ![local](https://github.com/giocarvalho07/citibank-hackathon/assets/52415453/09e4c895-6d61-4212-9522-33c2de4d101c)
 
 
-Make sure to add the location of the binary to your `$PATH`.
 
-### Option 2: From source
+### Retorno Local
+
+Após teste local, você pode testar esta Url no browser ou Postman
 
 ```bash
-$ git clone git@github.com:karan/joe.git
-$ cd joe/
-$ chmod +x tool.sh
-$ ./tool.sh build
+$ http://localhost:8080/cnab
 ```
 
 ## Usage
