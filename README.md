@@ -160,9 +160,9 @@ $ [
 ```
 
 
-#### `tool.sh`
+#### Escalabilidade do projeto
 
-This is a handy script that automates a lot of developing steps.
+Realizamso testes para o projeto suportar até 1000 requisições por minuto, prevendo tolerância a falhas
 
 
 ```bash
