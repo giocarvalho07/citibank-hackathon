@@ -8,9 +8,18 @@ projeto hackathon citibank
 
 # joe
 
-A `.gitignore` magician in your command line. Joe generates `.gitignore` files from the command line for you.
+Acesse a página de downloads da Golang e baixe o instalador da Golang para Windows. No momento em que realizo a escrita desse artigo, a versão atual da linguagem 
+é a 1.19. https://go.dev/dl/
 
-![](http://i.imgur.com/2tAksHG.gif)
+Na tela seguinte será a tela de configuração do local de instalação da Golang, por padrão a linguagem é instalada na pasta C:\Program Files\Go\ ou C:\Program Files (x86)\Go\. Caso queira alterar o local de instalação basta clicar no botão “Change” e selecionar o novo local de instalação desejado, mas recomendo seguir com o padrão e simplesmente clicar no botão “Next”.
+
+Para verificar se a instalação foi realizada com sucesso podemos abrir algum terminal do Windows (Prompt de Comando ou PowerShell) e digitar o seguinte comando:
+
+### comando para verificar se o GoLang está na máquina
+
+```bash
+$ go version
+```
 
 ## Features
 
