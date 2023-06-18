@@ -53,15 +53,16 @@ $ go version
 $ go run main.go
 ```
 
-## Installation
+## Testes local
 
-After install, make sure to run `joe u`. This will download all `.gitignore` files in `~/joe-data/` folder.
+Apos o comando, seu terminal irá ficar semelhante a imagem, com o projeto em ambiente local:8080
 
-### Option 1: Binary
+```bash
+$ go run main.go
+```
 
-`joe` is available for OSX (macOS), Linux and Windows.
+![local](https://github.com/giocarvalho07/citibank-hackathon/assets/52415453/09e4c895-6d61-4212-9522-33c2de4d101c)
 
-Download the latest binary from the [Releases page](https://github.com/karan/joe/releases). It's the easiest way to get started with `joe`.
 
 Make sure to add the location of the binary to your `$PATH`.
 
